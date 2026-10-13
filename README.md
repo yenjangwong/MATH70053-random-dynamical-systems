@@ -2,6 +2,8 @@
 
 Imperial College London | MSc Applied Mathematics | 2025–2026
 
+Lecturer: Prof. Jeroen Lamb
+
 This repository documents my coursework essay from this module.
 
 **Coursework essay:** [Intermittency and Infinite Ergodic Measures in the Two-Point Dynamics of Random Circle Endomorphisms](Intermittency%20and%20Infinite%20Ergodic%20Measures%20in%20the%20Two-Point%20Dynamics%20of%20Random%20Circle%20Endomorphisms.pdf)
