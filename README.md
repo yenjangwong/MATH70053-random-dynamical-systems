@@ -10,3 +10,4 @@ Some interesting stuff I learned:
 - Krylov–Bogolyubov Theorem
 - Infinite ergodic theory
 - Lyapunov exponent and Intermittency
+- Iterated function systems 
